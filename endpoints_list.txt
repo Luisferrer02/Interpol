@@ -1,0 +1,23 @@
+### **API-Football (v3, vía RapidAPI)**
+
+**Base URL:** `https://v3.football.api-sports.io`
+
+**Cabeceras requeridas:**
+
+```http
+x-rapidapi-key: TU_API_KEY
+x-rapidapi-host: v3.football.api-sports.io
+```
+
+| Endpoint                            | Ejemplo                                                              | Descripción                                                                       |
+| ----------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `/leagues`                          | `GET https://v3.football.api-sports.io/leagues`                      | Lista todas las ligas disponibles.                                                |
+| `/leagues?current=true`             | `GET https://v3.football.api-sports.io/leagues?current=true`         | Devuelve todas las ligas actualmente activas.                                     |
+| `/leagues?id=848`                   | `GET https://v3.football.api-sports.io/leagues?id=848`               | Devuelve información específica de la **UEFA Europa Conference League** (id 848). |
+| `/teams?league=848&season=2023`     | `GET https://v3.football.api-sports.io/teams?league=848&season=2023` | Devuelve todos los equipos que participaron en la Conference League 2023.         |
+| `/players?team={id}&season=2023`    | `GET https://v3.football.api-sports.io/players?team=33&season=2023`  | Devuelve todos los jugadores de un equipo concreto en una temporada.              |
+| `/players/squads?team={id}`         | `GET https://v3.football.api-sports.io/players/squads?team=33`       | Devuelve la plantilla completa de un equipo.                                      |
+| `/players/profiles?player={id}`     | `GET https://v3.football.api-sports.io/players/profiles?player=276`  | Devuelve el perfil completo de un jugador concreto.                               |
+| `/players/profiles?search={nombre}` | `GET https://v3.football.api-sports.io/players/profiles?search=ney`  | Busca jugadores por nombre parcial.                                               |
+
+---
