@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Wesley Moraes",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/84.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "B. Traoré",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/671.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Sanson",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/1914.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Digne",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/2724.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Steer",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19174.png",
+    "Status": "bufon"
+  }
+]
