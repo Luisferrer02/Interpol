@@ -1,4 +1,6 @@
-### **API-Football (v3, vía RapidAPI)**
+### **API-Football (v3, vía RapidAPI)** (23/10 44/100 req per day)
+
+https://www.api-football.com/documentation-v3
 
 **Base URL:** `https://v3.football.api-sports.io`
 
