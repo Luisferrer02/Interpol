@@ -131,10 +131,12 @@ class ReviewApp:
         # non-blocking photo load with cache
         self.display_photo(player.get("Photo"), img_label)
 
-        # Botones de etiquetado
-        tk.Button(self.root, text="Bufón", width=12, command=lambda: self.update_label("bufon")).pack(pady=3)
-        tk.Button(self.root, text="Leyenda", width=12, command=lambda: self.update_label("leyenda")).pack(pady=3)
-        tk.Button(self.root, text="Camiseta", width=12, command=lambda: self.update_label("camiseta")).pack(pady=3)
+        # Botones de etiquetado (ocultos en modo "reviewed" / "Ver revisados")
+        # En la vista 'Ver revisados' no deben aparecer los botones de etiquetado
+        if self.mode_var.get() != "reviewed":
+            tk.Button(self.root, text="Bufón", width=12, command=lambda: self.update_label("bufon")).pack(pady=3)
+            tk.Button(self.root, text="Leyenda", width=12, command=lambda: self.update_label("leyenda")).pack(pady=3)
+            tk.Button(self.root, text="Camiseta", width=12, command=lambda: self.update_label("camiseta")).pack(pady=3)
 
         # Navegación
         tk.Frame(self.root, height=20).pack()
