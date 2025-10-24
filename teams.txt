@@ -1,0 +1,44 @@
+{
+  "summary": {
+    "total_teams": 32,
+    "successful_teams": 20,
+    "failed_teams": 12,
+    "total_players_collected": 751
+  },
+  "successful": [
+    { "team": "Lille", "players": 35 },
+    { "team": "Slovan Bratislava", "players": 46 },
+    { "team": "Olimpija Ljubljana", "players": 42 },
+    { "team": "KI Klaksvik", "players": 26 },
+    { "team": "Maccabi Tel Aviv", "players": 46 },
+    { "team": "Gent", "players": 28 },
+    { "team": "Zorya Luhansk", "players": 37 },
+    { "team": "Breidablik", "players": 35 },
+    { "team": "Plzen", "players": 29 },
+    { "team": "FC Lugano", "players": 34 },
+    { "team": "Aston Villa", "players": 34 },
+    { "team": "Legia Warszawa", "players": 33 },
+    { "team": "AZ Alkmaar", "players": 30 },
+    { "team": "Zrinjski", "players": 42 },
+    { "team": "Fiorentina", "players": 34 },
+    { "team": "Ferencvarosi TC", "players": 48 },
+    { "team": "Genk", "players": 33 },
+    { "team": "Cukaricki", "players": 46 },
+    { "team": "PAOK", "players": 33 },
+    { "team": "Dinamo Zagreb", "players": 60 }
+  ],
+  "failed": [
+    "FC Astana",
+    "Ballkani",
+    "Club Brugge KV",
+    "Bodo/Glimt",
+    "Besiktas",
+    "Eintracht Frankfurt",
+    "Aberdeen",
+    "HJK Helsinki",
+    "Fenerbahce",
+    "Ludogorets",
+    "FC Nordsjaelland",
+    "Spartak Trnava"
+  ]
+}

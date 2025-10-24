@@ -1,20 +1,2188 @@
 [
   {
-    "Name": "Wesley Moraes",
-    "Team": "Aston Villa",
-    "Photo": "https://media.api-sports.io/football/players/84.png",
+    "Name": "A. Bodart",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/2096.png",
+    "status": "bufon",
+    "confirmed": true
+  },
+  {
+    "Name": "M. Caillard",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/21483.png",
+    "status": "camiseta",
+    "confirmed": true
+  },
+  {
+    "Name": "Samy Merzouk",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/531323.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "B. Özer",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/1337.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "T. Sajous",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/551417.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Alexsandro Ribeiro",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/142691.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Costarelli",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/437767.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Rafael Fernandes",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/330288.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Goffi",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/490745.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "A. Mandi",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/1567.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "C. Mbemba",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/375.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "T. Meunier",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/264.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Ngoy",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/312964.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "R. Perraud",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/20600.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Tiago Santos",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/379329.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "O. Touré",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/351888.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "C. Verdonk",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/37151.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "B. André",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/2204.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "L. Baret",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/401333.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "N. Bentaleb",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/409.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "A. Bouaddi",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/438688.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Adame Faiz",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/580817.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "André Gomes",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/18765.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "E. Mbappé",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/386287.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Mukau",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/375598.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "U. Raghouber",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/334878.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Broholm",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/318416.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Félix Correia",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/135749.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "S. Diaoune",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/487381.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Fernandez-Pardo",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/340077.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "O. Giroud",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/2295.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "H. Haraldsson",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/67889.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "H. Igamane",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/306979.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Y. Lachaab",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/368065.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "O. Sahraoui",
+    "Team": "Lille",
+    "Photo": "https://media.api-sports.io/football/players/99576.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Trnovský",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/128446.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Macík",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/61190.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "D. Takáč",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/1378.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Mikoláš",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/383043.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "D. Murar",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/389638.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "K. Wimmer",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/25374.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "S. Murar",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/450708.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "L. Pauschek",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/66245.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Medveděv",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/61146.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Tóth",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/161783.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Boledovič",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/347798.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Tománek",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/485607.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "G. Kashia",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/51171.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Vojtko",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/61259.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "C. Blackman",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/2975.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "K. Bajrič",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/61149.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "A. Maroš",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/409546.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Marcelli",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/383041.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "J. Kucka",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/31023.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "V. Weiss",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/42316.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Tolić",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/14677.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Barseghyan",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/56132.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "K. Savvidīs",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/68198.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Maxim Mateas",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/470393.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Ignatenko",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/105321.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "A. Mustafić",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/76975.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Ibrahim",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/309011.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Marko",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/342157.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Gajdoš",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/289661.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "S. Habodasz",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/162282.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "E. Isaac",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/358094.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Strelec",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/61156.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Mak",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/1213.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Mišovič",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/314299.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "I. Metsoko",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/281323.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "S. Zuberu",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/131516.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Alasana Yirajang",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/457339.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Sandro Plínio Rosa da Cruz",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/41574.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Filip Lichý",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/162281.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Mykola Kukharevych",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/208398.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Kelvin Ofori",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/127843.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Peter Pokorný",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/7326.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Sidoine Chounkwi Fogning",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/510353.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Tag Eldin Ibrahim Abdel Rahim",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/148858.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Andraž Šporar",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/56026.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Tomasko",
+    "Team": "Slovan Bratislava",
+    "Photo": "https://media.api-sports.io/football/players/550364.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Vasić",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/518675.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Dajcar",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/162573.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "V. Zakrajšek",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/450891.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Vidovšek",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/56868.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "G. Fink",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/131313.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Marat Žlibanović",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/342219.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Diga",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/41492.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Dvoršak",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/361363.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "V. Jelenković",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/352494.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "F. Ananou",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/25200.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "A. Muhamedbegović",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/7408.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "J. Govea",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/163384.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Ristić",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/346532.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Henjak",
+    "Team": "Olimpija Ljubljana",
+    "Photo": null,
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Gorenc",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/166958.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "J. Cedilnik",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/516152.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Urbančič",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/131324.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Thalisson Charles",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/329506.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Mitrovski",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/163483.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "D. Kojić",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/449618.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "P. Agba",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/237233.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Álex Blanco",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/47367.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Aćimović",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/445452.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Çelhaka",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/3629.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Brest",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/131427.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Marin",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/1329.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "N. Motika",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/280337.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Boultam",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/31613.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "A. Doffo",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/11479.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Maksimović",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/332594.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Diogo Pinto",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/130242.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Pedro Lucas",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/10405.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Tamm",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/60676.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Ž. Pečjak",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/445453.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "I. Durdov",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/14656.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Mariano Bruguel Ahouangbo",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/442073.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Henjak Matej",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/528596.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Jasmin Kurtič",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/30865.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "G. Fink",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/544008.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Vasic",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/559736.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Tamm",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/543981.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Henjak",
+    "Team": "Olimpija Ljubljana",
+    "Photo": "https://media.api-sports.io/football/players/559745.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "S. John",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/16005.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Fabricius Jensen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/107416.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "H. Matras",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/410175.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "J. Danielsen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/72943.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Ben Lamin",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/48139.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "G. Rólantsson",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/39225.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "A. Berntsson",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/47958.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "G. Tellechea",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/148018.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "O. Færø",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/55993.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Williams",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/107009.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "D. Johansen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/73028.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "L. Ahmed",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/424395.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "R. Joensen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/28908.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "J. Andreasen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/70357.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Á. Frederiksberg",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/55997.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "C. Kronberg",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/94570.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Mikkelsen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/15752.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Pavlović",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/72939.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. González",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/465138.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "H. Jørgensen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/473288.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "H. Hánsson",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/15643.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "P. Klettskarð",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/83055.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Giusti",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/513136.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Johannessen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/72945.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "F. Brattbakk",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/127599.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "P. Johannesen",
+    "Team": "KI Klaksvik",
+    "Photo": "https://media.api-sports.io/football/players/70395.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "O. Melika",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/360150.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "R. Mishpati",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/111003.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "R. Amedi",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/412770.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "S. Saadia",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/442327.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "S. Sluga",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/2759.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Khatib",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/484393.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Idan Weinberg",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/493653.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Bitton",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/1122.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "R. Revivo",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/315127.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "R. Shlomo",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/111016.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "D. Tischler",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/412724.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Asante",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/274199.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "I. Nachmias",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/111288.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "S. Yehezkel",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/111284.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "A. Cohen",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/106811.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "S. Edri",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/348249.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "N. Stojić",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/133403.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "I. Sissokho",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/206361.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "O. Davida",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/126969.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "H. Addo",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/342928.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Dor Peretz",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/56011.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "D. Biton",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/70481.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "I. Shahar",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/137531.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. van Overeem",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/37183.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "N. Niddam",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/162829.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "E. Madmon",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/400496.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Y. Cohen",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/56012.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "O. Azo",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/449583.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "E. Zahavi",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/12943.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Weslley Patati",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/335633.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Ayias",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/428391.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Y. Blai",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/395776.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Y. Malede",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/111319.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Yoav Pini Gerafi",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/56000.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Mohamed Ali Camara",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/942.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Benjamin Lederman",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/262634.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Ion Nicolăescu",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/7783.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Heitor Marinho dos Santos",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/279818.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Noam Ben Harush Shani",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/371920.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Denny Gropper",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/110624.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Itamar Noy",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/161826.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Itay Ben Hamo",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/271833.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Saied Abu Farchi",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/395777.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Kristijan Belić",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/161956.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Kervin Mario Andrade Navarro",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/311785.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Hélio Sandro Oliveira Alves Varela",
+    "Team": "Maccabi Tel Aviv",
+    "Photo": "https://media.api-sports.io/football/players/291024.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "K. Peersman",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/313077.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "D. Roef",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/8716.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "T. Vandenberghe",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/131953.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "S. Van der Heyden",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/37639.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Tiago Araújo",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/161935.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "B. Lagae",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/348241.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "S. Mitrović",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/2819.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Paskotši",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/60353.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "G. De Meyer",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/396200.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "H. Essaoubi",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/269453.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "T. De Vlieger",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/381830.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Ito",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/266927.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. El Âdfaoui",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/446302.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "O. Gandelman",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/126974.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Delorge-Knieper",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/299972.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Kadri",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/129867.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Leonardo Lopes",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/20144.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Samoise",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/281376.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Omgba",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/402955.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "M. Dean",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/278233.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "B. Goore",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/477549.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Vanzeir",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/8920.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "W. Kanga",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/21155.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "D. Yokota",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/260798.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "F. Surdez",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/278018.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Sonko",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/328978.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Michał Krzysztof Skóraś",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/40809.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Jean-Kévin Duverne",
+    "Team": "Gent",
+    "Photo": "https://media.api-sports.io/football/players/20655.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Valerii Kosivskyi",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/467806.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "M. Turbaevskyi",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/162488.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "O. Saputin",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/335178.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "Jordan",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/80322.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Kyrylo Andrushko",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/513088.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "R. Vantukh",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63511.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Juninho",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/109601.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "C. Nwanze",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/295428.png",
+    "status": "camiseta"
+  },
+  {
+    "Name": "Artem Marynovskyi",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/461227.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "G. Eskinja",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/271314.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "J. Bašić",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/14580.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Yevhenii Pysarenko",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/461226.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Batagov",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63627.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "A. Slesar",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/335048.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "M. Vasylets",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/345449.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "Benito",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/43387.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "P. Mićin",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/30811.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "T. Korablin",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/266231.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "D. Popara",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/200862.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "I. Golovkin",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/153333.png",
+    "status": "leyenda"
+  },
+  {
+    "Name": "A. Matkevych",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/345405.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "K. Dryshlyuk",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63389.png",
+    "status": "bufon"
+  },
+  {
+    "Name": "F. Zadorozhnyi",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/468554.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Guerrero",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/95105.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "P. Budkivskyi",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63450.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Bilotserkovets",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/263520.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Bugay",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63423.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Ndour",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/146644.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Gorbach",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/335045.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Vakula",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/63425.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ihor Perduta",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/1511.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "Andrija Janjić",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/338806.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "Roman Salenko",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/328765.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Navin Malysh",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/340624.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ruan de Oliveira Ferreira",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/267862.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Nemanja Anđušić",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/76960.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Andjusic",
+    "Team": "Zorya Luhansk",
+    "Photo": "https://media.api-sports.io/football/players/546200.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Gylfi Berg SnÃ¦hólm",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/495835.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Einarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28844.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Bragason",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/61650.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Obbekjær",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/15854.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Gunnlaugsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28726.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Á. Orrason",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/416097.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Jónsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28673.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Margeirsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28730.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Valgeirsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28884.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "A. Kotļevs",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/497025.png",
     "Status": "camiseta"
   },
   {
-    "Name": "B. Traoré",
-    "Team": "Aston Villa",
-    "Photo": "https://media.api-sports.io/football/players/671.png",
+    "Name": "H. Björgvin Eysteinsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/523079.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Muminović",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28722.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Gunnleifsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/495840.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Björgvinsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/522427.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Ingvarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28727.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "B. Þorsteinsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/522220.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Ágústsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/517249.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Lúðvíksson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/147911.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Warén",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/522221.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Bjarnason",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28735.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Á. Þorsteinsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/321803.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Yeoman",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28734.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "G. Snaer",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/434710.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "D. Fjeldsted",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/416098.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Jónsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/61631.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Einarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28725.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Sævarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/415967.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Tumi Fannar Gunnarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/378388.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ó. Ómarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28842.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Gautason",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/321805.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Kristinsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/36796.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Þ. Úlfarsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/126448.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Thomsen",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28689.png",
     "Status": "camiseta"
   },
   {
-    "Name": "M. Sanson",
+    "Name": "K. Steindórsson",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28755.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Magnússon",
+    "Team": "Breidablik",
+    "Photo": "https://media.api-sports.io/football/players/28942.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Šilhavý",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/449713.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Tvrdoň",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/66447.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Jedlička",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/61161.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Wiegele",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/221605.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Marković",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/45824.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Merchas Doski",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/271444.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Havel",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/799.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Jemelka",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/66270.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Dweh",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/317825.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "J. Paluska",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/338998.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Karel Spáčil",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/426130.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Hejda",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/800.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Kopic",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/810.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Slončík",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/390567.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Šulc",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/66387.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Višinský",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/290212.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "C. Souaré",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/179449.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "A. Memić",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/322101.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Valenta",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/66463.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Červ",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/162194.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Adrian Zeljković",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/290045.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Jiří Maxim Panoš",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/449656.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Vydra",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/18930.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Adu",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/410016.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "R. Durosinmi",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/341226.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "J. Bello",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/474782.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "C. Kabongo",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/271869.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Ladra",
+    "Team": "Plzen",
+    "Photo": "https://media.api-sports.io/football/players/66253.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "C. Ndiaye",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/437334.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Mina",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/384129.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Saipi",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/70532.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Pseftis",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/322860.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. El Wafi",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/383023.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Zanotti",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/322626.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Mai",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/503.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Valenzuela",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/50832.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Z. Brault-Guillard",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/50779.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Martim Marques",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/336574.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Papadopoulos",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/26626.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "A. Grgić",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/48520.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Cimignani",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/193645.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "U. Bislimi",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/125708.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Macek",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/48408.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Mahmoud",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/67195.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Steffen",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/2809.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Maslarov",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/428081.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Ryter",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/446270.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Mahou",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/84126.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Daniel Dos Santos",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/303004.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "O. Doumbia",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/48693.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "B. Babic",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/48750.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Koutsias",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/161579.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Bottani",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/48413.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Aliseda",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/5939.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Yassin Sbai",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/301398.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ezgjan Alioski",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/19133.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Kevin Behrens",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/25192.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Alexandre Duville-Parsemain",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/275291.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "Damian Kelvin",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/381495.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Erik Elias Pihlström",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/458180.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "David von Ballmoos",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/939.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Claudio Cassano",
+    "Team": "FC Lugano",
+    "Photo": "https://media.api-sports.io/football/players/354531.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Bizot",
     "Team": "Aston Villa",
-    "Photo": "https://media.api-sports.io/football/players/1914.png",
+    "Photo": "https://media.api-sports.io/football/players/36878.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Martínez",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19599.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Oakley",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/452427.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Proctor",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/398004.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Wright",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/284390.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Bogarde",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/284457.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Cash",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19298.png",
     "Status": "bufon"
   },
   {
@@ -24,9 +2192,2295 @@
     "Status": "bufon"
   },
   {
-    "Name": "J. Steer",
+    "Name": "Andrés García",
     "Team": "Aston Villa",
-    "Photo": "https://media.api-sports.io/football/players/19174.png",
+    "Photo": "https://media.api-sports.io/football/players/388013.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Konsa",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19354.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Lindelöf",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/889.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Maatsen",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/138816.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Mings",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19179.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Mosquera",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/415107.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Patterson",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/308843.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Pau Torres",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/46815.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Barkley",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/2287.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Aidan Borland",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/434180.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Broggio",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/550218.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Buendía",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19071.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Burrows",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/453101.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Elliott",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19035.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "George Hemmings",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/364566.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Jimoh",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/360268.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Kamara",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/1904.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J.  McGinn",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19191.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Onana",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/162714.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Rogers",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19170.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Tielemans",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/2926.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Guessand",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/137303.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Malen",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/249.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Sancho",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/18.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "O. Watkins",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/19366.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Young",
+    "Team": "Aston Villa",
+    "Photo": "https://media.api-sports.io/football/players/312260.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "W. Banasik",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/443188.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Kobylak",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/148342.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Marcel Mendes-Dudziński",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/281962.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "K. Tobiasz",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/286551.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Burch",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/135964.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Jędrzejczyk",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/3002.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Kapuadi",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/199767.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Čupić",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/45470.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "K. Piątkowski",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/119762.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Reca",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/3010.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Stojanović",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/1315.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Rúben Vinagre",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/18745.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Henrique Arreiol",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/345426.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Augustyniak",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/40257.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Bichakhchyan",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/61232.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "K. Chodyna",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/41017.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Elitim",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/122703.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Claude Gonçalves",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/20581.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "B. Kapustka",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/8782.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "P. Kun",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/40612.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Leszczyński",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/462217.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Mozie",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/483308.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Szymański",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/3011.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. UrbaÅski",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/182280.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "W. Urbański",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/447405.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Wszołek",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/19591.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Wyganowski",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/498794.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Żewłakow",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/456652.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Čolak",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/14293.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Krasniqi",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/271921.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Nsame",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/962.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Rajović",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/16126.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Weißhaupt",
+    "Team": "Legia Warszawa",
+    "Photo": "https://media.api-sports.io/football/players/202844.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Deen",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/278308.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Owusu-Oduro",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/340711.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Verhulst",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/37602.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Zeggen",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/395894.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Zoet",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/224.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Dekker",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/312838.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Dijkstra",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/370475.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "W. Goes",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/338839.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Kasius",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/179839.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Maikuma",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/199793.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Alexandre Penetra",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/162594.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "M. de Wit",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/93064.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. van Duijl",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/364184.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Boogaard",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/446288.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Chávez",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/390002.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Clasie",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/37154.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Koopmeiners",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/38820.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Kwakman",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/340597.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Mijnans",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/37438.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Šín",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/353898.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Smit",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/388786.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Daal",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/338840.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Hartog",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/381129.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Jensen",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/289670.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Meerdink",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/342954.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Parrott",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/149551.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Sadiq",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/15920.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Zeefuik",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/312837.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. van Duijn",
+    "Team": "AZ Alkmaar",
+    "Photo": "https://media.api-sports.io/football/players/330261.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Ljubić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14325.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Karačić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/62138.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Å utkoviÄ",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/340174.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "D. Karačić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/471873.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ante Sušak",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/394912.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Velkovski",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14278.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Mašić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/200124.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "K. Memija",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/9081.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Šunjić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/53654.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Sušić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/105500.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Barišić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/9035.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Jakovljević",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/76924.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "D. Dujmović",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/315462.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Mamić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14271.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Å eva",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/524410.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Kozina",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/408337.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Savić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/204143.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Šurdanović",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/7081.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Ivančić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14480.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "I. Posavec",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14539.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Ćavar",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14307.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Å iliÄ",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/395595.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Pranjić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/337648.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Filipović",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/519391.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Milan Šikanjić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/204073.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Abramović",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/151797.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Janjić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/199446.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Mikić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/128359.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Majić",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/394978.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Šakota",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/348206.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Kiš",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/69922.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "T. Burey",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/20377.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "N. Bilbija",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/9020.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "F. Šakota",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/519390.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Marko Vranjković",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14682.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Neven Đurasek",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/14398.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Mario Ćuže",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/1319.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Vitalie Damaşcan",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/30511.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Jakovljevic",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/531334.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Djurasek",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/531326.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Barisic",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/534516.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Karacic",
+    "Team": "Zrinjski",
+    "Photo": "https://media.api-sports.io/football/players/534533.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Martinelli",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/383267.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Lezzerini",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/31352.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "O. Christensen",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/15843.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "David de Gea",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/882.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Košpo",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/441290.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Lamptey",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/138815.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Ranieri",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/31642.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Pablo Marí",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/46792.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Pongračić",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/1084.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Parisi",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/136087.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Gosens",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/30422.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Dodô",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/41144.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Krastev",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/71455.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Viti",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/180510.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Kouadio",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/448977.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "P. Comuzzo",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/396637.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Fortini",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/437093.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Mandragora",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/30810.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Fazzini",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/340700.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Richardson",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/314231.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Beltrán",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/6010.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Bianco",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/302432.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Fagioli",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/876.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "C. Ndour",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/311083.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Sabiri",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/19053.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "H. Nicolussi",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/881.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Sohm",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/1014.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Barák",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/30803.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Braschi",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/437094.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Kean",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/877.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "J. Ikoné",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/22229.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "E. Džeko",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/790.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Piccoli",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/30440.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Guðmundsson",
+    "Team": "Fiorentina",
+    "Photo": "https://media.api-sports.io/football/players/2799.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "D. Gróf",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/28409.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Dániel István Radnóti",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/424461.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Őri",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/290057.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Szécsi",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/28209.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Dibusz",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/28322.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Gartenmann",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/15605.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Ćivić",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/56116.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Aaneba",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/22243.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Knoester",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/37253.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "E. Botka",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/28326.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Cissé",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/21140.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "G. Szalai",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/324234.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "C. Ramírez",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/2076.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "Raul Gustavo",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/14390.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "H. Maïga",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/20531.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "I. Pappoe",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/369411.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "P. Rommens",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/37833.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Zachariassen",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/2027.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Keïta",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/294.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Ben Romdhane",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/49404.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Júlio Romão",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/278547.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "C. Lakatos",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/478483.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Á. Madarász",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/446117.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Č. Makreckis",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/178362.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Gojak",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/1320.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Lončar",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/14287.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Abu Fani",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/108017.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Marquinhos",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/9881.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Saldanha",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/197059.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Kehinde",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/118347.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Z. Gruber",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/313152.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Pešić",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/34525.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Joseph",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/21613.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Guilherme Henrique  de Oliveira Morais",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/454500.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Varga",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/7398.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Bassey",
+    "Team": "Ferencvarosi TC",
+    "Photo": null,
+    "Status": "bufon"
+  },
+  {
+    "Name": "Carlos Eduardo Lopes Cruz",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/216553.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Barnabás Szabolcs Nagy",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/127657.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Jonathan Alberto Levi",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/48072.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Bence Ötvös",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/27985.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Daniel Arzani",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/1121.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Toon Raemaekers",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/153287.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Callum Joshua Ryan O'Dowda",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/19272.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Gavriel Gilad Kanichowsky",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/111148.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Bamidele Isa Yusuf",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/199779.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Madarasz",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/544042.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Benjámin Gólik",
+    "Team": "Ferencvarosi TC",
+    "Photo": "https://media.api-sports.io/football/players/550217.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Stevens",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/340678.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Lawal",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/7195.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Kiaba Mounganga",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/437692.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "H. Van Crombrugge",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/8632.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Z. El Ouahdi",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/283252.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Smets",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/377009.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Brad Ryan Manguelle",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/388892.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Kayembe",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/21098.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Mujaid Sadick",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/104795.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Palacios",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/374581.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Medina",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/306940.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Kongolo",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/388888.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Nkuba",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/8573.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Bangoura",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/380780.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Hrošovský",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/807.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Sattlberger",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/287790.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Heymans",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/8845.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Heynen",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/1937.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Karetsas",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/404891.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Y. Sor",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/203458.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Noah Adedeji-Sternberg",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/380647.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Arokodare",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/110153.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "J. Steuckers",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/297581.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Ito",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/1942.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Yokoyama",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/304918.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Oyen",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/162088.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Bibout",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/413237.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Oh Hyeon-Gyu",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/34710.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Mirisola",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/392412.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Jusef Erabi",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/288078.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Z. El Ouahdi",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/530274.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Solomon",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/447243.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Mounganga",
+    "Team": "Genk",
+    "Photo": "https://media.api-sports.io/football/players/544641.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Lazar Kaličanin",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/368100.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Lainović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/498358.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Čarapić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/445500.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Mirković",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/15602.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Stojanović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/46175.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Bogdanović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/305058.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Serafimović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/342319.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Stojanović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/448351.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Tomović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/30745.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "J. VojnoviÄ",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/495884.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Đoković",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/376768.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Jovanović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/1256.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Maiga",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/405565.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Cvetković",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/11017.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "S. Srnić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/47009.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Jovančić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/356.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Veljko Radosavljević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/471312.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Mateja Prokopijević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/471314.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Nikčević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/115544.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Matijašević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/498282.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Tufegdžić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/46037.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Milojević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/45941.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Docić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/45805.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "N. Stanković",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/284098.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "O. Abramušić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/367914.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Sissoko",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/194628.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "E. Dzigba",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/475580.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "U. Miladinović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/368102.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Cisse",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/402425.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "G. Vadze",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/359652.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "Luka Đorđević",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/471313.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "P. Mbong",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/112489.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Pavkov",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/365.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Tedić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/45815.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Lazar Stojanović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/422048.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Nemanja Tošić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/45992.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Srđan Mijailović",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/97567.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Matija Marsenić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/339871.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Stojanovic",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534409.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Sissoko",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534422.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Nikcevic",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534396.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "U. Miladinovic",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534350.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Carapic",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534427.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Cisse",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534387.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Cvetkovic",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/534349.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Nemanja Miletić",
+    "Team": "Cukaricki",
+    "Photo": "https://media.api-sports.io/football/players/2818.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Gugeshashvili",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/24665.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Monastirlis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/340663.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Pavlenka",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/25310.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Tsiftsis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/91215.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Apetenok",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/412685.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Baba",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/21996.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Bataoulas",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/446107.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Kędziora",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/2164.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Kenny",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/18760.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Kottas",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/340662.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Lovren",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/287.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "G. Michailidis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/162229.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Joan Sastre",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/46737.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Taylor",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/44784.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "K. Thymianis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/26862.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Vogliacco",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/31521.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Bianco",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/302432.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Camara",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/1604.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "K. Despodov",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/30571.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Ivanušec",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/14394.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Konstantelias",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/162410.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Meïté",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/30507.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Ozdoev",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/1217.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "D. Pelkas",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/2374.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Taison",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/684.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "D. Tsopouroglou",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/161576.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Živković",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/579.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Balde",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/580867.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Berdos",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/460580.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Chalov",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/843.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Chatsidis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/471796.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Giakoumakis",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/26902.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Mythou",
+    "Team": "PAOK",
+    "Photo": "https://media.api-sports.io/football/players/446029.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "S. Moharrami",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1311.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Ademi",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1317.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Brodić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/30904.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Soldo",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/55368.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "S. Milić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/66778.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Štefulj",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/106695.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Vukotić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/133444.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Tomek",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/198392.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Šaranić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/291873.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Mamić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/316168.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Rozić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/328304.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Brkljača",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/337460.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "D. Klarin",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/342303.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Vrbančić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/342307.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Tonon",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/355211.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "V. Čaić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/386271.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "J. Gurlica",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/393072.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "N. Mikic",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/419622.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. RajiÄ",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/423210.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Fran Pavlek",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/442748.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Mudražija",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1297.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Perić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1313.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Mišić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/2373.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "R. Ljubičić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/7627.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Goda",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14410.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "L. Menalo",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14434.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "S. Kulenović",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/40405.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "A. Hoxha",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/105993.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "N. Galešić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/263476.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Lisica",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/265491.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Valinčić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/288319.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Živković",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/295540.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Stojković",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/308814.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "G. Rukavina",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/329285.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "F. Topić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/339162.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "M. Soldo",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/349420.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Ante Sušak",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/394912.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "T. Majić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/394978.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. PaviÄ",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/419621.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Jakirović",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/454294.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Livaković",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1305.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "D. Zagorac",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/1306.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "T. Halilović",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14283.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "P. Bočkaj",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14306.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "D. Špikić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14353.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "L. Ivanušec",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14394.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Nevistić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14532.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "J. Šutalo",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/14701.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Kaneko",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/32985.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Mykhailichenko",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/63446.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "M. Bernauer",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/90599.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "J. Vasilj",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/162086.png",
+    "Status": "camiseta"
+  },
+  {
+    "Name": "F. Krkalić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/162523.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "B. Barišić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/265360.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "Z. Koščević",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/342223.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "A. Krdžalić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/348240.png",
+    "Status": "leyenda"
+  },
+  {
+    "Name": "L. Lukanić",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/364225.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "I. Cvetko",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/386273.png",
+    "Status": "bufon"
+  },
+  {
+    "Name": "T. Miljak",
+    "Team": "Dinamo Zagreb",
+    "Photo": "https://media.api-sports.io/football/players/412877.png",
     "Status": "bufon"
   }
 ]
