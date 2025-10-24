@@ -33,12 +33,9 @@ for p in data:
     if isinstance(status, str):
         status = status.lower()
 
-    if isinstance(confirmed, str):
-        c = confirmed.strip().lower()
-        if c in ("true", "1", "yes"):  # tolerant parsing
-            confirmed = True
-        elif c in ("false", "0", "no"):
-            confirmed = False
+    # Only treat as confirmed when the value is the boolean True from JSON.
+    # Do NOT coerce strings or numbers to True — user requested strict check.
+    # If other formats exist (e.g. "true" as string) they will be considered not confirmed.
     # now count
     if status in ("bufon", "leyenda", "camiseta"):
         if confirmed is True:
